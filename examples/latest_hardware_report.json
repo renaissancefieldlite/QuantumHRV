@@ -1,0 +1,24 @@
+{
+  "mode": "hardware-derived",
+  "evidence_status": "hardware_derived_model",
+  "noise_summary": {
+    "mean_coherence_proxy": 0.0002777777777777778,
+    "min_coherence_proxy": 0.0,
+    "max_coherence_proxy": 1.0,
+    "drift_span_ghz": 0.05349879523744061,
+    "depolarization_events": 45,
+    "readout_flip_events": 86,
+    "leakage_events": 24,
+    "neighbor_bleed_events": 270
+  },
+  "metrics": {
+    "sdnn": 0.016664351691078487,
+    "rmssd": 0.016668981963846228,
+    "dominant_frequency_hz": 0.005555555555555556,
+    "lf_power": 0.1,
+    "hf_power": 0.2444444444444445,
+    "lf_hf_ratio": 0.40909090909090906
+  },
+  "schema_version": "rfl.quantum_hrv.v2",
+  "next_step": "Run the same HRV metric stack on observed device time series."
+}

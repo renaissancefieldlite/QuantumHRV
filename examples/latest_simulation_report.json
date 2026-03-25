@@ -1,0 +1,14 @@
+{
+  "mode": "simulation",
+  "evidence_status": "simulation_baseline",
+  "metrics": {
+    "sdnn": 0.146396588214325,
+    "rmssd": 0.03781188606341082,
+    "dominant_frequency_hz": 0.6722222222222223,
+    "lf_power": 96.81075112837068,
+    "hf_power": 38.4487672779548,
+    "lf_hf_ratio": 2.5179156051611216
+  },
+  "schema_version": "rfl.quantum_hrv.v2",
+  "next_step": "Run the same HRV metric stack on observed device time series."
+}
