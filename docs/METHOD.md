@@ -9,4 +9,5 @@ matters is where the time series came from.
 
 Those metrics can describe variability in the trace. They do not, by
 themselves, establish that a real quantum device has a biological-style
-heartbeat.
+heartbeat or that the dominant cadence is intrinsic to hardware rather than to
+selection, routing, or state transition dynamics.
