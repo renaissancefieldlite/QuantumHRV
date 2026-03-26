@@ -1,6 +1,8 @@
 # QuantumHRV
 
-HRV-style analysis of coherence traces.
+This is the heartbeat-variability layer for the 0.67 Hz program.
+
+It asks whether coherence traces behave with enough time-domain and frequency-domain structure to justify an HRV-style reading.
 
 This repo now distinguishes:
 
