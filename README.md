@@ -1,4 +1,4 @@
-# QuantumHRV
+# Experiment 5: QuantumHRV
 
 HRV-style analysis of coherence traces.
 
